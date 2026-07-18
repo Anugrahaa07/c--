@@ -18,7 +18,7 @@ int main(){
             div=div+1;
         }
         if(count==1){
-            cout<<"The number "<<a<<" is a prime number"<<'\n';
+            cout<<"The number "<<a<<" is a prime number"<<'\n'
         }
         else{
             cout<<"The number is a composite number"<<'\n';
