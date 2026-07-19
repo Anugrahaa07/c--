@@ -14,7 +14,7 @@ int main(){
     else{
         while(div!=a){
             if(a % div==0 )
-            count = count+1
+            count = count+1;
             div=div+1;
         }
         if(count==1){
